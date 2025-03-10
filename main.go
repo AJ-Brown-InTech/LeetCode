@@ -2,11 +2,11 @@ package main
 
 import (
     "log"
-  "LeetCode/twosum"
+  "LeetCode/problem1"
 )
 
 func main() {
-    if test, _ := twosum.Setup(); len(test) > 0 {
+    if test, _ := problem1.Setup(); len(test) > 0 {
         log.Println(test)
         return
     }
