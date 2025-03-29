@@ -1,11 +1,11 @@
 package main
 
 import (
-	"LeetCode/problem11"
+	"LeetCode/problem28"
 )
 
 func main() {
-    problem11.Implement()
+    problem28.Implement()
 }    
 
 
